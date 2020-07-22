@@ -1,11 +1,14 @@
 
-.wrapper {
+
+
+body {
     background-image: url(https://images.pexels.com/photos/3888585/pexels-photo-3888585.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260);
     /* position: relative; */
     background-size: cover;
+    background-repeat: no-repeat;
+    
+    height: 100%;
     width: 100%;
-    height: auto;
-
 }
 
 
@@ -30,3 +33,12 @@ ul li a {
 .row {
     color: #ffffff;
 } 
+.card-title {
+    color: #ffffff;
+}
+.card-text {
+    color: dimgray;
+}
+.form-group {
+    color: #ffffff;
+}
