@@ -8,3 +8,8 @@ Should be a portfolio site with images and links.
 three files index.html. portfolio.html contact.html
 
 basis to to practice using bootstrap AKA make sites responsive!
+
+validation:
+![index img](validate1.png)
+![portfolio](validate2.png)
+![contact](validate3.png)
